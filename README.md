@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 
-- 💬 These are some things about:
+- 💬 These are some things I'm interested in:
   - My Projects
     - [CiscoConfParse][4] 
   - Misc Tools
