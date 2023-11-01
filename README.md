@@ -1,4 +1,4 @@
-[mpenning / mpenning / README.md](https://github.com/mpenning/mpenning/README.md "A place for my github profile")
+[mpenning / mpenning / README.md](https://github.com/mpenning/mpenning/blob/main/README.md "A place for my github profile")
 
 <!--
 **mpenning/mpenning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
