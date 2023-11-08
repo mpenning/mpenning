@@ -23,6 +23,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
     - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
     - [frp][12] a reverse-proxy to expose services across a network NAT
+    - [go-mitmproxy][13] - Client-side socket logging and diagnostics
     
 [1]: http://pennington.net
 [2]: https://github.com/GothenburgBitFactory/taskwarrior
@@ -36,3 +37,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [10]: https://github.com/orf/gping
 [11]: https://github.com/chenjiandongx/sniffer
 [12]: https://github.com/fatedier/frp
+[13]: https://github.com/lqqyt2423/go-mitmproxy
