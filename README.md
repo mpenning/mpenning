@@ -17,14 +17,14 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 
 - 💬 These are some things I'm interested in:
   - My Projects
-    - [CiscoConfParse][4] 
+    - [CiscoConfParse][4]: parse / query Cisco (and other vendor) text configurations 
   - Misc Tools
-    - [Taskwarrior][2] (also see [Usage examples][3], and [my taskwarrior notes][5])
+    - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
-    - [frp][12] a reverse-proxy to expose services across a network NAT
-    - [go-mitmproxy][13] - Client-side socket logging and diagnostics
-    - [goben][14] - Client-side network throughput testing and diagnostics
+    - [frp][12]: a reverse-proxy to expose services across a network NAT
+    - [go-mitmproxy][13]: Client-side socket logging and diagnostics
+    - [goben][14]: Client-side network throughput testing and diagnostics
     
 [1]: http://pennington.net
 [2]: https://github.com/GothenburgBitFactory/taskwarrior
