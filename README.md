@@ -21,6 +21,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
   - Misc Tools
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
+    - [go-charts][16] and [plot][15] (also see [plot examples][17]) 
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
     - [frp][12]: a reverse-proxy to expose services across a network NAT
     - [go-mitmproxy][13]: Client-side socket logging and diagnostics
@@ -40,3 +41,6 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [12]: https://github.com/fatedier/frp
 [13]: https://github.com/lqqyt2423/go-mitmproxy
 [14]: https://github.com/udhos/goben
+[15]: https://github.com/gonum/plot
+[16]: https://github.com/go-echarts/go-echarts
+[17]: https://github.com/gonum/plot/wiki/Example-plots
