@@ -25,7 +25,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
     - [frp][12]: a reverse-proxy to expose services across a network NAT
     - [go-mitmproxy][13]: Client-side socket logging and diagnostics
-    - [goben][14]: Client-side network throughput testing and diagnostics
+    - [goben][14] / [iperf3][18]: Client-side network throughput testing and diagnostics
     
 [1]: http://pennington.net
 [2]: https://github.com/GothenburgBitFactory/taskwarrior
@@ -44,3 +44,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [15]: https://github.com/gonum/plot
 [16]: https://github.com/go-echarts/go-echarts
 [17]: https://github.com/gonum/plot/wiki/Example-plots
+[18]: https://github.com/esnet/iperf
