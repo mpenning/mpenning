@@ -27,7 +27,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
       - [matplotlib][20]: native python graphing
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
     - [frp][12]: a reverse-proxy to expose services across a network NAT
-    - [go-mitmproxy][13]: Client-side socket logging and diagnostics
+    - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
     - [goben][14] / [iperf3][18]: Client-side network throughput testing and diagnostics
     
 [1]: http://pennington.net
@@ -50,3 +50,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [18]: https://github.com/esnet/iperf
 [19]: https://github.com/oetiker/rrdtool-1.x
 [20]: https://github.com/matplotlib/matplotlib
+[21]: https://github.com/mitmproxy/mitmproxy
