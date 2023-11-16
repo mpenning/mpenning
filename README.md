@@ -26,6 +26,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
       - [rrdtool][19]: the industry-standard time-series db and graphing library
       - [matplotlib][20]: native python graphing
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
+    - [coredns][13]: Go DNS server with plugin architecture
     - [frp][12]: a reverse-proxy to expose services across a network NAT
     - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
     - [goben][14] / [iperf3][18]: Client-side network throughput testing and diagnostics
@@ -42,6 +43,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [10]: https://github.com/orf/gping
 [11]: https://github.com/chenjiandongx/sniffer
 [12]: https://github.com/fatedier/frp
+[13]: https://github.com/coredns/coredns
 [13]: https://github.com/lqqyt2423/go-mitmproxy
 [14]: https://github.com/udhos/goben
 [15]: https://github.com/gonum/plot
