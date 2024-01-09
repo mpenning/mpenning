@@ -18,7 +18,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 - 💬 These are some things I'm interested in:
   - My Projects
     - [CiscoConfParse][4]: parse / query Cisco (and other vendor) text configurations 
-  - Misc Tools
+  - Misc Tools I Like
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
     - Graphing / Charting
