@@ -17,25 +17,24 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 
 - 💬 These are some things I'm interested in:
   - My Projects
-    - [CiscoConfParse][4]: parse / query Cisco (and other vendor) text configurations 
+    - [CiscoConfParse2][4]: parse / query Cisco (and other vendor) text configurations 
   - Misc Tools I Like
     - [pmlib][26]
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
     - Graphing / Charting
-      - [go-charts][16] and [plot][15] (also see [plot examples][17])
-      - [rrdtool][19]: the industry-standard time-series db and graphing library
-      - [matplotlib][20]: native python graphing
+      - [matplotlib][20] / [rrdtool][19]: the industry-standard time-series db and graphing library
+      - [go-charts][16] and [plot][15] (also see [plot examples][17])  
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
-    - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
     - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
-    - [goben][14] / [iperf3][18]: Client-side network throughput testing and diagnostics
+    - [flent][27] / [goben][14] / [iperf3][18]
+    - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
     - [containerlab][22]: Build networking labs with Go
     
 [1]: http://pennington.net
 [2]: https://github.com/GothenburgBitFactory/taskwarrior
 [3]: https://taskwarrior.org/docs/examples/
-[4]: https://github.com/mpenning/ciscoconfparse/
+[4]: https://github.com/mpenning/ciscoconfparse2/
 [5]: https://github.com/mpenning/taskwarrior_notes
 [6]: https://github.com/mpenning/rst2pdf_http
 [7]: https://github.com/bp2008/pingtracer
@@ -59,3 +58,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [24]: https://github.com/NLnetLabs/nsd
 [25]: http://www.haproxy.org/
 [26]: https://github.com/mpenning/pmlib
+[27]: https://github.com/tohojo/flent
