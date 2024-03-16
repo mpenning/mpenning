@@ -27,7 +27,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
       - [go-charts][16] and [plot][15] (also see [plot examples][17])  
     - [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
     - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
-    - [flent][27] / [goben][14] / [iperf3][18]
+    - [flent][27] / [crusader][29] / [goben][14] / [iperf3][18] / [Cisco TRex][28]
     - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
     - [containerlab][22]: Build networking labs with Go
     
@@ -59,3 +59,5 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [25]: http://www.haproxy.org/
 [26]: https://github.com/mpenning/pmlib
 [27]: https://github.com/tohojo/flent
+[28]: https://github.com/cisco-system-traffic-generator/trex-core
+[29]: https://github.com/Zoxc/crusader
