@@ -22,7 +22,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
     - [pmlib][26]
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - Data Stores
-      - [InfluxDB][31]: Time-series DB, popular Grafana backend 
+      - [InfluxDB][31]: Rust time-series DB, popular Grafana backend 
     - Graphing / Charting
       - [matplotlib][20] / [rrdtool][19]: the industry-standard time-series db and graphing library
       - [go-charts][16] and [plot][15] (also see [plot examples][17])  
