@@ -21,7 +21,6 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
   - Misc Tools I Like
     - [pmlib][26]
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
-    - [rst2pdf_http][6]: A tool to render and serve restructured text as pdf using a go http server
     - Graphing / Charting
       - [matplotlib][20] / [rrdtool][19]: the industry-standard time-series db and graphing library
       - [go-charts][16] and [plot][15] (also see [plot examples][17])  
