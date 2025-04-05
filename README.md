@@ -17,19 +17,20 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 
 - 💬 These are some things I'm interested in:
   - My Projects
-    - [CiscoConfParse2][4]: parse / query Cisco (and other vendor) text configurations 
+    - [ciscoconfparse2][4]: parse / query Cisco (and other vendor) text configurations 
   - Misc Tools I Like
-    - [pmlib][26]
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
     - Data Stores
       - [InfluxDB][31]: Rust time-series DB, popular Grafana backend 
     - Graphing / Charting
       - [matplotlib][20] / [rrdtool][19]: the industry-standard time-series db and graphing library
-      - [go-charts][16] and [plot][15] (also see [plot examples][17])  
-    - [trippy][30] / [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
-    - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
-    - [flent][27] / [crusader][29] / [goben][14] / [iperf3][18] / [Cisco TRex][28]
-    - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
+      - [go-charts][16] and [plot][15] (also see [plot examples][17])
+    - Network Tools
+     - [caddy][32]: The world's best webserver / reverse proxy with Auto-TLS certificate support; why are you still using NGINX?
+     - [trippy][30] / [pingtracer (Windows)][7] / [mtr (*nix)][8] / [nethogs (*nix)][9] / [gping (*nix)][10] / [sniffer (cross-platform)][11]
+     - [mitmproxy][21] / [go-mitmproxy][13]: Client-side socket logging and diagnostics
+     - [flent][27] / [crusader][29] / [goben][14] / [iperf3][18] / [Cisco TRex][28]
+     - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
     - [containerlab][22]: Build networking labs with Go
     
 [1]: http://pennington.net
@@ -65,3 +66,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [29]: https://github.com/Zoxc/crusader
 [30]: https://github.com/fujiapple852/trippy
 [31]: https://github.com/influxdata/influxdb/
+[32]: https://github.com/caddyserver/caddy
