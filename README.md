@@ -20,6 +20,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
     - [ciscoconfparse2][4]: parse / query Cisco (and other vendor) text configurations 
   - Misc Tools I Like
     - [Taskwarrior][2]: (also see [Usage examples][3], and [my taskwarrior notes][5])
+    - [difftastic][33]: The best text diff tool around
     - Data Stores
       - [InfluxDB][31]: Rust time-series DB, popular Grafana backend 
     - Graphing / Charting
@@ -67,3 +68,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [30]: https://github.com/fujiapple852/trippy
 [31]: https://github.com/influxdata/influxdb/
 [32]: https://github.com/caddyserver/caddy
+[33]: https://github.com/Wilfred/difftastic
