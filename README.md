@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 -->
 Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpenning&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpenning&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpenning&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpenning&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpenning&theme=nord_dark)
+
 - 💬 These are some things I'm interested in:
   - My Projects
     - [ciscoconfparse2][4]: parse / query Cisco (and other vendor) text configurations 
