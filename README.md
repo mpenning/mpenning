@@ -40,6 +40,7 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
       - [nsd][24] / [coredns][13] / [unbound][23] / [haproxy][25] / [frp][12]: a reverse-proxy to expose services across a NAT
       - [dominate][35]: Use pure python to render HTML5 (nodejs not required)
     - [containerlab][22]: Build networking labs with Go
+    - [secure cartography][36]: Multivendor network diagrams discovered with CDP and LLDP
     
 [1]: http://pennington.net
 [2]: https://github.com/GothenburgBitFactory/taskwarrior
@@ -76,3 +77,4 @@ Hello 👋, I'm [Mike Pennington][1] a Network Engineer from Austin, TX.
 [33]: https://github.com/Wilfred/difftastic
 [34]: https://github.com/lqqyt2423/go-mitmproxy
 [35]: https://github.com/Knio/dominate
+[36]: https://github.com/scottpeterman/secure_cartography
